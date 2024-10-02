@@ -773,3 +773,10 @@ p {
     justify-content: center;
 
 }
+
+  }
+    .video-section{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }

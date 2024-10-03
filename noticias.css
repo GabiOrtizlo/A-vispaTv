@@ -571,15 +571,14 @@ cursor: pointer;
     }
 
     
-    @media (max-width: 768px) {
+   @media (max-width: 768px) {
         .menu nav ul {
             display: none;
             flex-direction: column;
             position: absolute;
-          
+            
             top: 80px;
-            right: none; 
-        left: -150px;
+            right: 20px;
             background: #e67e22;
             box-shadow: 0 4px 25px -22px black;
            border: 2px solid #1a5276;
@@ -589,7 +588,6 @@ cursor: pointer;
            width: 200px;
            height: 150px;
         }
-    
         .menu nav ul.show {
             display: flex;
             

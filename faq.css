@@ -578,7 +578,7 @@ cursor: pointer;
             position: absolute;
           
             top: 80px;
-            right: none; 
+            right: 40px; 
         left: -150px;
             background: #e67e22;
             box-shadow: 0 4px 25px -22px black;

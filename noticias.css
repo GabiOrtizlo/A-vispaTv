@@ -586,7 +586,7 @@ cursor: pointer;
            border-width: 5px;
             padding: 20px;
            width: 200px;
-           height: 150px;
+           height: 280px;
         }
         .menu nav ul.show {
             display: flex;

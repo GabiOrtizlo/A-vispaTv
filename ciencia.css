@@ -795,7 +795,11 @@ p {
     border-radius: 8px; /* Bordes redondeados, opcional */
   }
   
-
-iframe {
-    border: none;
-}
+<iframe 
+    src="https://www.instagram.com/reel/DArZs0AOLpo/embed" 
+    style="width: 100%; height: auto;" 
+    frameborder="0" 
+    scrolling="no" 
+    allowtransparency="true" 
+    allow="encrypted-media">
+</iframe>
